@@ -1,0 +1,5 @@
+{
+  "name": "Nexus: AI-Native Collaborative Studio",
+  "description": "A legendary multimodal workspace for real-time research, design, and development powered by Gemini 3.1 and Live Audio.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
